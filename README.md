@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[avatar](https://oss.blog.redarm.cn/avatar.jpeg)
+![avatar](https://oss.blog.redarm.cn/avatar.jpeg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
